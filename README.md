@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Homurax's github stats](https://github-readme-stats.homurax.vercel.app/api?username=homurax&show_icons=true&theme=tokyonight)](https://github.com/homurax/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.homurax.vercel.app/api/top-langs/?username=homurax)](https://github.com/homurax/github-readme-stats)
