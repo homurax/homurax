@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.homurax.vercel.app/api/top-langs/?username=homurax&theme=cobalt" />
 </a>
 
----
+<br>
 
 #### Game
 
