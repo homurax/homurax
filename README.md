@@ -24,14 +24,20 @@ Here are some ideas to get you started:
 
 #### Console
 
-<a href="https://github.com/homurax/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.homurax.vercel.app/api?username=homurax&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/homurax/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.homurax.vercel.app/api/top-langs/?username=homurax&theme=cobalt" />
-</a>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<br>
+[![Homurax's github stats](https://github-readme-stats.homurax.vercel.app/api?username=homurax&show_icons=true&theme=tokyonight)](https://github.com/homurax/github-readme-stats)
+
+</td>
+<td valign="top" width="50%">
+
+[![Top Langs](https://github-readme-stats.homurax.vercel.app/api/top-langs/?username=homurax&theme=cobalt)](https://github.com/homurax/github-readme-stats)
+
+</td>
+</tr>
+</table>
 
 #### Game
 
