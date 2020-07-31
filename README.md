@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)
 
+![](https://img.shields.io/badge/-Java-dc143c?style=flat-square&logo=java&logoColor=white)
+![](https://img.shields.io/badge/-Kotlin-f18e33?style=flat-square&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white)
 
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
