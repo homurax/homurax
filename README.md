@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </td>
 <td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.homurax.vercel.app/api/top-langs/?username=homurax&theme=cobalt)](https://github.com/homurax/github-readme-stats)
+[![Top Langs](https://github-readme-stats.homurax.vercel.app/api/top-langs/?username=homurax&theme=cobalt&layout=compact)](https://github.com/homurax/github-readme-stats)
 
 </td>
 </tr>
