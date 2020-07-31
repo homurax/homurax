@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/CentOS-7-2376bc?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/download/)
 
 [![](https://img.shields.io/badge/-Java-dc143c?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[![](https://img.shields.io/badge/-Kotlin-f18e33?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![](https://img.shields.io/badge/-Kotlin-ff722c?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 [![](https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
