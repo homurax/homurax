@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
+ <!-- waka-box start -->
+ <!-- waka-box end -->
+
 #### Game
 
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
