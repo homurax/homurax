@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Kotlin-ff722c?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-TypeScript-0074c1?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 [![](https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Subversion-93b0da?style=flat-square&logo=subversion&logoColor=white)](https://subversion.apache.org/)
-
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
