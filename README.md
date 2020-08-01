@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/CentOS-7-2376bc?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/download/)
+[![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=flat-square&logo=IntelliJ-IDEA)](https://www.jetbrains.com/idea/)
+[![](https://img.shields.io/badge/IDE-Android%20Studio-blue?style=flat-square&logo=Android-Studio)](https://developer.android.com/studio)
 
 [![](https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Kotlin-ff722c?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
