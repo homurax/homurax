@@ -69,8 +69,8 @@ Java   🕓 0s ░░░░░░░░░░░░░░░░░░░░░�
 🎮 DARK SOULS™ III                           🕘 47 hrs 10 mins
 🎮 古剑奇谭三(Gujian3)                            🕘 35 hrs 57 mins
 🎮 Zero Escape: Zero Time Dilemma            🕘 33 hrs 29 mins
+🎮 VA-11 Hall-A: Cyberpunk Bartender Action  🕘 21 hrs 49 mins
 🎮 Sekiro™: Shadows Die Twice                🕘 21 hrs 17 mins
-🎮 VA-11 Hall-A: Cyberpunk Bartender Action  🕘 21 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
