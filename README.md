@@ -69,7 +69,7 @@ Python 🕓 3m    ▏░░░░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/c2ca1c7de88d5f83b033aa02fa4a82a1" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 DARK SOULS™ III                           🕘 47 hrs 10 mins
-🎮 古剑奇谭三(Gujian3)                            🕘 35 hrs 57 mins
+🎮 古剑奇谭三(Gujian3)                       🕘 35 hrs 57 mins
 🎮 Zero Escape: Zero Time Dilemma            🕘 33 hrs 29 mins
 🎮 VA-11 Hall-A: Cyberpunk Bartender Action  🕘 21 hrs 49 mins
 🎮 Sekiro™: Shadows Die Twice                🕘 21 hrs 17 mins
