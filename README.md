@@ -73,7 +73,7 @@ JavaScript 🕓 0s     ░░░░░░░░░░░░░░░░░░░
 🎮 古剑奇谭三(Gujian3)                       🕘 35 hrs 57 mins
 🎮 Zero Escape: Zero Time Dilemma            🕘 33 hrs 29 mins
 🎮 VA-11 Hall-A: Cyberpunk Bartender Action  🕘 28 hrs 50 mins
-🎮 Destiny 2                                 🕘 22 hrs 57 mins
+🎮 Destiny 2                                 🕘 23 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
