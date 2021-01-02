@@ -73,7 +73,7 @@ Git Config 🕓 4m    ▏░░░░░░░░░░░░░░░░░░�
 🎮 DARK SOULS™ III                           🕘 47 hrs 10 mins
 🎮 古剑奇谭三(Gujian3)                       🕘 35 hrs 57 mins
 🎮 Zero Escape: Zero Time Dilemma            🕘 33 hrs 29 mins
-🎮 VA-11 Hall-A: Cyberpunk Bartender Action  🕘 28 hrs 50 mins
+🔫 Tom Clancy's Rainbow Six Siege            🕘 30 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
