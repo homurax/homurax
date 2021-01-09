@@ -72,8 +72,8 @@ Text 🕓 9m     ▎░░░░░░░░░░░░░░░░░░░░
 🎮 Destiny 2                                 🕘 98 hrs 53 mins
 🎮 DARK SOULS™ III                           🕘 47 hrs 10 mins
 🎮 古剑奇谭三(Gujian3)                       🕘 35 hrs 57 mins
+🔫 Tom Clancy's Rainbow Six Siege            🕘 35 hrs 38 mins
 🎮 Zero Escape: Zero Time Dilemma            🕘 33 hrs 29 mins
-🔫 Tom Clancy's Rainbow Six Siege            🕘 31 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
