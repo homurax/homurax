@@ -71,7 +71,7 @@ Properties 🕓 0s    ░░░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Destiny 2                                 🕘 98 hrs 53 mins
 🎮 DARK SOULS™ III                           🕘 47 hrs 10 mins
-🔫 Tom Clancy's Rainbow Six Siege            🕘 44 hrs 39 mins
+🔫 Tom Clancy's Rainbow Six Siege            🕘 46 hrs 17 mins
 🎮 古剑奇谭三(Gujian3)                       🕘 35 hrs 57 mins
 🎮 Zero Escape: Zero Time Dilemma            🕘 33 hrs 29 mins
 ```
