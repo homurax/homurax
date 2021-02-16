@@ -66,7 +66,7 @@ Still Gathering Statistics...
 #### <a href="https://gist.github.com/c2ca1c7de88d5f83b033aa02fa4a82a1" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Destiny 2                                 🕘 106 hrs 2 mins
-🔫 Tom Clancy's Rainbow Six Siege            🕘 94 hrs 5 mins
+🔫 Tom Clancy's Rainbow Six Siege            🕘 94 hrs 11 mins
 🎮 DARK SOULS™ III                           🕘 47 hrs 10 mins
 🎮 古剑奇谭三(Gujian3)                       🕘 35 hrs 57 mins
 🎮 Zero Escape: Zero Time Dilemma            🕘 33 hrs 29 mins
