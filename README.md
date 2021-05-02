@@ -69,7 +69,7 @@ Markdown   🕓 1m     ░░░░░░░░░░░░░░░░░░░
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/c2ca1c7de88d5f83b033aa02fa4a82a1" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege            🕘 174 hrs 32 mins
+🔫 Tom Clancy's Rainbow Six Siege            🕘 177 hrs 42 mins
 🎮 Destiny 2                                 🕘 106 hrs 2 mins
 🎮 DARK SOULS™ III                           🕘 47 hrs 10 mins
 🎮 古剑奇谭三(Gujian3)                       🕘 35 hrs 57 mins
