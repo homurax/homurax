@@ -52,7 +52,8 @@ Here are some ideas to get you started:
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/63abd100d0f5dc68d525abb80612181c" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Java 🕓 1h52m █████████████████████████████████░ 97.2%
+XML  🕓 3m    ▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.8%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
