@@ -49,15 +49,7 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
- <!-- waka-box start -->
-#### <a href="https://gist.github.com/63abd100d0f5dc68d525abb80612181c" target="_blank">📊 Weekly development breakdown</a>
-```text
-Java   🕓 8h34m ███████████████████████████▉░░░░ 87.1%
-XML    🕓 50m   ██▋░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  8.6%
-Python 🕓 18m   ▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.1%
-SQL    🕓 7m    ▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.2%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box start -->
 <!-- waka-box end -->
 
 #### Game
@@ -65,16 +57,7 @@ SQL    🕓 7m    ▍░░░░░░░░░░░░░░░░░░░�
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)
 
- <!-- steam-box start -->
-#### <a href="https://gist.github.com/c2ca1c7de88d5f83b033aa02fa4a82a1" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-🔫 Tom Clancy's Rainbow Six Siege   🕘 276 hrs 13 mins
-🎮 Destiny 2                        🕘 106 hrs 2 mins
-🎮 DARK SOULS™ III                  🕘 47 hrs 10 mins
-🎮 古剑奇谭三(Gujian3)              🕘 35 hrs 57 mins
-🎮 Zero Escape: Zero Time Dilemma   🕘 33 hrs 29 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box start -->
 <!-- steam-box end -->
 
 
