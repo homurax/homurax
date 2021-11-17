@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Kotlin-ff722c?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white)](https://golang.org/)
 [![](https://img.shields.io/badge/-Python-2b5b84?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-TypeScript-0074c1?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
