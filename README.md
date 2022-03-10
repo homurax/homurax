@@ -74,7 +74,7 @@ YAML           🕓 0s    ░░░░░░░░░░░░░░░░░░
 🎮 Destiny 2                        🕘 106 hrs 2 mins
 🎮 DARK SOULS™ III                  🕘 47 hrs 10 mins
 🎮 古剑奇谭三(Gujian3)              🕘 35 hrs 57 mins
-🎮 Zero Escape: Zero Time Dilemma   🕘 33 hrs 29 mins
+🎮 ELDEN RING                       🕘 34 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
