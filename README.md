@@ -73,8 +73,8 @@ YAML           🕓 0s    ░░░░░░░░░░░░░░░░░░
 🔫 Tom Clancy's Rainbow Six Siege   🕘 372 hrs 3 mins
 🎮 Destiny 2                        🕘 106 hrs 2 mins
 🎮 DARK SOULS™ III                  🕘 47 hrs 10 mins
+🎮 ELDEN RING                       🕘 37 hrs 10 mins
 🎮 古剑奇谭三(Gujian3)              🕘 35 hrs 57 mins
-🎮 ELDEN RING                       🕘 34 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
