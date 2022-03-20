@@ -73,7 +73,7 @@ SQL      🕓 12m   ▍░░░░░░░░░░░░░░░░░░░
 🔫 Tom Clancy's Rainbow Six Siege   🕘 376 hrs 34 mins
 🎮 Destiny 2                        🕘 106 hrs 2 mins
 🎮 DARK SOULS™ III                  🕘 47 hrs 10 mins
-🎮 ELDEN RING                       🕘 39 hrs 40 mins
+🎮 ELDEN RING                       🕘 40 hrs 59 mins
 🎮 古剑奇谭三(Gujian3)              🕘 35 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
