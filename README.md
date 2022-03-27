@@ -72,8 +72,8 @@ Properties     🕓 14m   ▍░░░░░░░░░░░░░░░░░
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 378 hrs 15 mins
 🎮 Destiny 2                        🕘 106 hrs 2 mins
+🎮 ELDEN RING                       🕘 49 hrs 3 mins
 🎮 DARK SOULS™ III                  🕘 47 hrs 10 mins
-🎮 ELDEN RING                       🕘 45 hrs 45 mins
 🎮 古剑奇谭三(Gujian3)              🕘 35 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
