@@ -70,7 +70,7 @@ VTL        🕓 16m    ▍░░░░░░░░░░░░░░░░░░
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/c2ca1c7de88d5f83b033aa02fa4a82a1" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege   🕘 380 hrs 33 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 382 hrs 47 mins
 🎮 Destiny 2                        🕘 106 hrs 2 mins
 🎮 ELDEN RING                       🕘 52 hrs 19 mins
 🎮 DARK SOULS™ III                  🕘 47 hrs 10 mins
