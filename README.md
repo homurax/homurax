@@ -72,7 +72,7 @@ VTL        🕓 16m    ▍░░░░░░░░░░░░░░░░░░
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 382 hrs 47 mins
 🎮 Destiny 2                        🕘 106 hrs 2 mins
-🎮 ELDEN RING                       🕘 52 hrs 19 mins
+🎮 ELDEN RING                       🕘 54 hrs 25 mins
 🎮 DARK SOULS™ III                  🕘 47 hrs 10 mins
 🎮 古剑奇谭三(Gujian3)              🕘 35 hrs 57 mins
 ```
