@@ -70,7 +70,7 @@ Still Gathering Statistics...
 🎮 Destiny 2                        🕘 106 hrs 2 mins
 🎮 ELDEN RING                       🕘 54 hrs 25 mins
 🎮 DARK SOULS™ III                  🕘 47 hrs 10 mins
-🎮 古剑奇谭三(Gujian3)              🕘 35 hrs 57 mins
+🎮 Gujian3(古剑奇谭三)              🕘 35 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
