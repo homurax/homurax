@@ -70,7 +70,7 @@ Still Gathering Statistics...
 🎮 Destiny 2                        🕘 106 hrs 2 mins
 🎮 ELDEN RING                       🕘 54 hrs 25 mins
 🎮 DARK SOULS™ III                  🕘 47 hrs 10 mins
-🎮 HELLDIVERS™ 2                    🕘 37 hrs 32 mins
+🎮 HELLDIVERS™ 2                    🕘 39 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
