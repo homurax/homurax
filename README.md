@@ -66,11 +66,11 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/c2ca1c7de88d5f83b033aa02fa4a82a1" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege   🕘 837 hrs 48 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 837 hrs 59 mins
 🎮 Destiny 2                        🕘 106 hrs 2 mins
 🎮 ELDEN RING                       🕘 54 hrs 25 mins
+🎮 HELLDIVERS™ 2                    🕘 49 hrs 13 mins
 🎮 DARK SOULS™ III                  🕘 47 hrs 10 mins
-🎮 HELLDIVERS™ 2                    🕘 46 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
