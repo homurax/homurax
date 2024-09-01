@@ -68,7 +68,7 @@ Still Gathering Statistics...
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 910 hrs 26 mins
 🎮 Destiny 2                        🕘 106 hrs 2 mins
-🎮 Black Myth: Wukong               🕘 57 hrs 40 mins
+🎮 Black Myth: Wukong               🕘 62 hrs 43 mins
 🎮 ELDEN RING                       🕘 54 hrs 25 mins
 🎮 HELLDIVERS™ 2                    🕘 52 hrs 28 mins
 ```
