@@ -66,7 +66,7 @@ Still Gathering Statistics...
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/c2ca1c7de88d5f83b033aa02fa4a82a1" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege   🕘 917 hrs 27 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 919 hrs 7 mins
 🎮 Destiny 2                        🕘 106 hrs 2 mins
 🎮 Black Myth: Wukong               🕘 67 hrs 20 mins
 🎮 ELDEN RING                       🕘 54 hrs 25 mins
